@@ -1,4 +1,3 @@
-# neighbor_sum
 # Neighbor Sum Calculator
 
 Write a program that takes a list of numbers as input in a single line. For each element in the list, the program should output the sum of its two neighbors. For elements at the edges of the list, one of the neighbors is considered to be the element at the opposite end of the list.
